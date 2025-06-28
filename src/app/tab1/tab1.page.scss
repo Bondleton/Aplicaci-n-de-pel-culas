@@ -1,0 +1,21 @@
+swiper-container {
+  padding: 1rem 0; // espacio vertical entre el contenedor y los slides
+}
+
+swiper-slide {
+  padding: 0 8px; // espacio horizontal entre slides
+  box-sizing: border-box;
+}
+
+swiper-slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); // opcional para sombra elegante
+}
+
+h3{
+  font-weight: bold;
+}

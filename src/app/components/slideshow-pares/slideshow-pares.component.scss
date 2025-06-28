@@ -1,0 +1,20 @@
+.par-slide {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.slide-mas {
+  height: 300px; /* igual al alto del carrusel */
+  display: flex;
+  justify-content: center;  /* centra horizontalmente */
+  align-items: center;      /* centra verticalmente */
+  padding: 1rem;
+}
+
+.btn-mas {
+  width: 80%;
+  max-width: 300px;
+  text-align: center;
+}
+

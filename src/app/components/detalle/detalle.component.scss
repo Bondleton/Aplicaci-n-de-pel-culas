@@ -1,0 +1,66 @@
+.poster-detalle-sobre {
+  position: relative;
+  top: -75px;
+  left: 10px;
+  margin-bottom: -75px;
+}
+
+.titulo {
+  width: 343px;
+  position: absolute;
+  color: white;
+  background-color: red;
+  padding: 5px 5px 100px 5px;
+
+  background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+  background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#a6000000', endColorstr='#00000000', GradientType=0);
+
+
+}
+
+.titulo h1 {
+  position: absolute;
+  top: 28px;
+  left: 5px;
+}
+
+.card-actor {
+  height: 210px;
+}
+
+// .actor-name {
+//   position: absolute;
+//   top: 15px;
+// }
+
+.actor-name {
+  width: 100%;
+  background-color: white;
+  color: #000;
+  text-align: center;
+  // font-weight: bold;
+  font-size: 14px;
+  padding: 8px;
+  border-radius: 0 0 16px 16px;
+}
+
+h1{
+  font-weight: bold;
+}
+
+swiper-slide {
+  padding: 0 8px; // espacio horizontal entre slides
+  box-sizing: border-box;
+}
+
+swiper-slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); // opcional para sombra elegante
+}
+

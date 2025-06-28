@@ -1,0 +1,27 @@
+<swiper-container #swiperRef slides-per-view="3.3" space-between="10" loop="false" autoplay="true">
+
+  <swiper-slide *ngFor="let par of peliculas | pares">
+    <div class="par-slide">
+      <img *ngFor="let pelicula of par" class="poster" [src]="pelicula.poster_path | imagen" [alt]="pelicula.title"
+      (click)="verDetalle(pelicula.id)">
+    </div>
+  </swiper-slide>
+
+
+  <!-- <swiper-slide class="slide-mas">
+
+    <ion-button (click)="onClick()" class="btn-mas" size="large" expand="full">
+      Mostrar más
+      <ion-icon slot="icon-only" name="add"></ion-icon>
+    </ion-button>
+
+  </swiper-slide> -->
+
+  <swiper-slide class="slide-mas">
+    <ion-button (click)="onClick()" expand="block" size="large">
+      <ion-icon slot="icon-only" name="add"></ion-icon>
+    </ion-button>
+  </swiper-slide>
+
+
+</swiper-container>

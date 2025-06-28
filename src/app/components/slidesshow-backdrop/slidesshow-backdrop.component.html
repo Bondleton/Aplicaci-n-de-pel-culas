@@ -1,0 +1,7 @@
+<swiper-container slides-per-view="1.2" free-mode="true" loop="false" autoplay="true">
+  <swiper-slide
+  (click)="verDetalle(pelicula.id)"
+  *ngFor="let pelicula of peliculas">
+    <img [src]="pelicula.backdrop_path | imagen" [alt]="pelicula.title">
+  </swiper-slide>
+</swiper-container>
