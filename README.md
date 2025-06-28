@@ -23,13 +23,16 @@ Accede desde tu navegador a:
 1. Clona este repositorio o descarga el proyecto.
 2. Abre una terminal en el directorio del proyecto.
 3. Ejecuta los siguientes comandos, para instalar dependencias y correr en el navegador:
+```bash
 npm install
 ionic serve
-4. Comandos para correr en Android:
+```
+5. Comandos para correr en Android:
+```bash
 ionic build
 npx cap add android
 npx cap open android
-
+```
 ### 📱 Opción 3: Instalar APK de la aplicación
 Accede desde tu navegador a:
 👉 link: [APK Movies](https://correobuap-my.sharepoint.com/:f:/g/personal/scarlett_xochicalef_alumno_buap_mx/EtKhvUAsUFFBq8kTC2_NGSoBQo2luWN_izFdGd4sP5LggA?e=abdI59)
