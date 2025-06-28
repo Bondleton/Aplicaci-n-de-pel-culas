@@ -23,7 +23,7 @@ Aplicación móvil desarrollada con **Ionic Framework con Angular** que permite 
 
 ### 🌐 Opción 1: Acceder directamente a la aplicación desplegada como PWA
 Accede desde tu navegador a:
-👉 link: [text](https://appmovies-569d9.web.app)
+👉 link: [PWA Movies](https://appmovies-569d9.web.app)
 
 ### 💻 Opción 2: Clonar y ejecutar localmente
 1. Clona este repositorio o descarga el proyecto.
@@ -38,7 +38,7 @@ npx cap open android
 
 ### 📱 Opción 3: Instalar APK de la aplicación
 Accede desde tu navegador a:
-👉 link: [text](https://correobuap-my.sharepoint.com/:f:/g/personal/scarlett_xochicalef_alumno_buap_mx/EtKhvUAsUFFBq8kTC2_NGSoBQo2luWN_izFdGd4sP5LggA?e=abdI59)
+👉 link: [APK Movies](https://correobuap-my.sharepoint.com/:f:/g/personal/scarlett_xochicalef_alumno_buap_mx/EtKhvUAsUFFBq8kTC2_NGSoBQo2luWN_izFdGd4sP5LggA?e=abdI59)
 
 ## 📸 Capturas de pantalla
 
@@ -61,7 +61,7 @@ Accede desde tu navegador a:
 Este proyecto fue desarrollado como parte del curso de Udemy:
 "Legacy - Ionic 6: Crear aplicaciones iOS, Android con Angular"
 Impartido por: Fernando Herrera
-Perfil del instructor en Udemy: [text](https://www.udemy.com/user/550c38655ec11/?kw=fernando+herrera&src=sac)
+Perfil del instructor en Udemy: [Fernando Herrera](https://www.udemy.com/user/550c38655ec11/?kw=fernando+herrera&src=sac)
 
 
 ## 👨‍💻 Proyecto Final Realizado por: 
