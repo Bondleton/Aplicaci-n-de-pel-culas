@@ -1,12 +1,8 @@
 # 🎬 Aplicación Móvil de Películas
 
----
-
 ## 📱 Descripción General
 
 Aplicación móvil desarrollada con **Ionic Framework con Angular** que permite consultar información sobre películas, buscar, ver sus detalles (como sinopsis, actores y géneros), y además de marcarlas como favoritas, donde la app hace uso de almacenamiento local (Storage) para persistir la sección de los favoritos. Toda la información es obtenida desde la API de **The Movie Database (TMDB)** para obtener datos actualizados de estrenos, películas populares, información detallada y reparto.
-
----
 
 ## 🛠️ Tecnologías y dependencias utilizadas
 
@@ -16,8 +12,6 @@ Aplicación móvil desarrollada con **Ionic Framework con Angular** que permite 
 - Ionic UI Components
 - Firebase Hosting
 - Android Studio
-
----
 
 ## 🚀 Instalación y ejecución local
 
@@ -62,7 +56,6 @@ Este proyecto fue desarrollado como parte del curso de Udemy:
 "Legacy - Ionic 6: Crear aplicaciones iOS, Android con Angular"
 Impartido por: Fernando Herrera
 Perfil del instructor en Udemy: [Fernando Herrera](https://www.udemy.com/user/550c38655ec11/?kw=fernando+herrera&src=sac)
-
 
 ## 👨‍💻 Proyecto Final Realizado por: 
 Estudiantes de la BUAP - Facultad de Ciencias de la Computación
